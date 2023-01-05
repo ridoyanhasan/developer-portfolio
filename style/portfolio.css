@@ -17,6 +17,7 @@ section{
     height: 64px;
     border-radius: 5px;
     background-color: #FD6E0A;
+    
 }
 .header{
     background: #FFF8F3;
@@ -48,6 +49,7 @@ nav li {
     display: flex;
     margin: 0 200px;
     align-items: center;
+    display: flex;
 
 }
 .banner-title{
